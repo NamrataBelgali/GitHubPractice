@@ -9,6 +9,7 @@ public class Class1Test {
 	public void class1() {
 		
 		Reporter.log(">>>=====HAYEEEE==^_^ MEWOOO😽😽==<<<<<< ",true);
+		Reporter.log(">>>=====HAYEEEE==^_^ MEWOOO😽😽==<<<<<< ",true);
 	}
 
 }
