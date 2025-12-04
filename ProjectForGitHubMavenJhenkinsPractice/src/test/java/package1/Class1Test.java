@@ -10,6 +10,8 @@ public class Class1Test {
 		
 		Reporter.log(">>>=====HAYEEEE==^_^ MEWOOO😽😽==<<<<<< ",true);
 		Reporter.log(">>>=====HAYEEEE==^_^ MEWOOO😽😽==<<<<<< ",true);
+		
+		Reporter.log(">>>I want Capgemini Company PLZZ GOD 🧿🧿🧿<<<<<< ",true);
 	}
 
 }
